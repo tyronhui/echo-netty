@@ -23,7 +23,7 @@
         <jdk.version>1.8</jdk.version>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <junit.version>4.12</junit.version>
-        <netty.version>4.1.31.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <echo.version>1.0</echo.version>
         <msgpack.version>0.6.12</msgpack.version>
         <jboss-marshalling.version>2.0.6.Final</jboss-marshalling.version>
