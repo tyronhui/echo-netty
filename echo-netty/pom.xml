@@ -27,7 +27,7 @@
         <echo.version>1.0</echo.version>
         <msgpack.version>0.6.12</msgpack.version>
         <jboss-marshalling.version>2.0.6.Final</jboss-marshalling.version>
-        <fastjson.version>1.2.51</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
     <dependencyManagement>
         <dependencies>
